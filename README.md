@@ -118,7 +118,7 @@ dataset.isnull().sum()
 
 dataset.nunique()
 
-# Finding Ansers with DATA WE HAVE with visualizations 
+# Finding Answers with DATA WE HAVE with visualizations 
 
 
 #the distribution of ratings 
